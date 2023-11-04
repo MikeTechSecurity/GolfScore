@@ -1,5 +1,5 @@
 # Golf Scores in Python
-# https://github.com/MikeTechSecurity/GolfData.git
+# https://github.com/MikeTechSecurity/GolfScore.git
 # Function to record player scores into a file.
 
 def main(filename="golf.dat"):
