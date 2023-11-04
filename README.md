@@ -1,4 +1,4 @@
-# GolfScore
+# GolfScores
 Golf Scores -  Python
 
 The Springfork Amateur Golf Club has a tournament every weekend. The club president has asked you to design two programs in Python.
